@@ -6,3 +6,10 @@
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@swenkerorg/super-duper/-/super-duper-1.0.1.tgz#f3673faf72ef78aaf5dc2d6e826608bd273cd724"
   integrity sha512-i7ovDB74PvMPDvolgWSiFTD+94yrC9VSSo3yunKMMzlxERtCU3WGPY43dhkRJy980FJSNbc0QN6aOsGzwYYu8g==
+
+"@swenkerorg/super-duper@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@swenkerorg/super-duper/-/super-duper-1.0.2.tgz#fea0cf3a61f0e4bc0fb62c068d3065e62d80fd19"
+  integrity sha512-kz+v7CZK0BqrK1K2fi2dKibGS3zMiDjcz9bTmKy2AO4WMU1/3uTfezydSC9A+Y6Lx509kCfybHF2LdHZr6LiXw==
+  dependencies:
+    "@swenkerorg/super-duper" "^1.0.1"

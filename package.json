@@ -1,13 +1,20 @@
 {
   "name": "@swenkerorg/potential-waddle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "swenker40",
   "license": "MIT",
   "dependencies": {
-    "@swenkerorg/super-duper": "^1.0.2"
+    "@swenkerorg/super-duper": "^1.0.2",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "functions",
